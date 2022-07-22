@@ -1,3 +1,4 @@
-### To-do List
+### Note-ly
+
 Create, delete, strike off your daily goals
 
